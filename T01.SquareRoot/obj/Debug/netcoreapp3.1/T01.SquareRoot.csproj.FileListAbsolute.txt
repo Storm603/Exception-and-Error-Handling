@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.exe
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.deps.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\bin\Debug\netcoreapp3.1\T01.SquareRoot.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T01.SquareRoot\obj\Debug\netcoreapp3.1\T01.SquareRoot.genruntimeconfig.cache
