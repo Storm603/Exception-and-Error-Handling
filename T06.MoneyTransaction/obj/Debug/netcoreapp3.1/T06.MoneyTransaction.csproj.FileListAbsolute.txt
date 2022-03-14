@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.exe
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.deps.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\bin\Debug\netcoreapp3.1\T06.MoneyTransaction.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T06.MoneyTransaction\obj\Debug\netcoreapp3.1\T06.MoneyTransaction.genruntimeconfig.cache
