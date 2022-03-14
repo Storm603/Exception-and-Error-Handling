@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.exe
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.deps.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\bin\Debug\netcoreapp3.1\T03.Card.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\Card\obj\Debug\netcoreapp3.1\T03.Card.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.exe
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.deps.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\bin\Debug\netcoreapp3.1\T04.SumofIntegers.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.dll
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.pdb
+C:\Users\Kristiyan\source\repos\Exceptions and Error handling Lab\T04.SumofIntegers\obj\Debug\netcoreapp3.1\T04.SumofIntegers.genruntimeconfig.cache
